@@ -1,7 +1,5 @@
 # Windows-basic-commands-batchscript
 Ex08-Windows-basic-commands-batchscript
-## Name: Ramitha chowdary S 
-## Register Number: 212224240130
 # AIM:
 To execute Windows basic commands and batch scripting
 
